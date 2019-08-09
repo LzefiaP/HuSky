@@ -18,3 +18,9 @@ HuSky 是基于dubbo,spring的流量分发插件.
 
 * resource 目录下创建husky.properties 里面添加 redis 配置。
 * 建议添加 jedis 2.9.0，commons-pool2 2.6.2,dubbo 2.6.0,spring 4.3.12,slf4j-api 1.7.26,log4j 1.2.16 等maven依赖。
+
+
+## 写在最后
+
+* 欢迎优秀有想法的coder,一起完善！！！
+* 联系方式：pengpan1@sina.com
